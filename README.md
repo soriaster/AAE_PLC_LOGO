@@ -1,5 +1,6 @@
 # AAE_PLC_LOGO
-Controlador de Alimentador Automático desarrollado en PLC Logo de Siemens
+Controlador de Alimentador Automático desarrollado en PLC Logo de Siemens.
+Se debe contar con el software Logo! de Siemens para la visualización de algoritmo.
 
 Controlador desarrollado para PLC Logo de Siemens, que permite el seteo de tiempos de Actividad e Inactividad para alimentar camarones. 
 Este sietema fue probado en una Camaronera Ecuatoriana, dando excelentes resultados.
